@@ -46,6 +46,10 @@ HR-Analytics-Dashboard/
 
 ## 📸 Dashboard Screenshots
 
+Below are key views of the HR Analytics Dashboard highlighting different insights:
+
+### 🔹 Full Dashboard Overview
+![Dashboard](images/dashboard_overview.png)
 ### 🔹 Full Dashboard Overview
 ![Dashboard](images/dashboard_overview.png)
 
